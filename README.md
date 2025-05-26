@@ -54,8 +54,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 
 ~~~
-#Developed by : GAUTHAM KRISHNA S
-#Register No : 212223240036
+#Developed by : B. DHANUSH KUMAR
+#Register No : 212224240034
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
